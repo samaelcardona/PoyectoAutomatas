@@ -44,6 +44,8 @@ public class ProyectoAutomtas {
 //        }
         
         System.out.println(""+mcl.lectorDeCadena("AT1", "100000100"));
+        
+        System.out.println("Hola mundo");
        
 ////        System.out.println("nombre automata:"+mcl.getAutomatas().get(0).getNombre());
 ////        System.out.println("nombre automata:"+mcl.getAutomatas().get(0).getTipoAutomata());
